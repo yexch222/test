@@ -1,0 +1,27 @@
+To address the aforementioned taks, we can employ more sophisticated models, such as deep learning, SVM, and decision trees. Currently, deep learning is the most popular, utilizing neural networks to represent a function.
+
+The fundamental structure of a neural network mimics that of human neurons, involving the multiplication of multiple inputs with network parameters (weights and biases), followed by an activation function that outputs a scalar value. 
+
+
+Using handwritten digit recognition as an example, to recognize the digit 2, we can stack multiple neurons in each layer and multiple layers to build a network with more parameters and greater capabilities for accurate recognition.
+
+Nowadays, as the number of layers in the network continues to increase, the number of parameters in the network also increases, which can further improve the performance of the network and lay the foundation for the current paradigm of deep learning.
+
+The above is an overview of the entire supervised learning process. Of course, we have many other learning methods to deal with different data conditions, so we won't go into too much detail here.
+
+
+After selecting the model, we need to choose the appropriate learning method and its corresponding evaluation criteria  based on the training data condtion. 
+
+For example, the supervised learning we mentioned earlier and so on.
+
+
+Finally, we need to optimize the network to learn the best parameters based on training data and evaluation criteria. 
+
+For example, gradient descent optimazation is integrated into multiple currently mature deep learning frameworks.
+
+
+
+
+
+
+
